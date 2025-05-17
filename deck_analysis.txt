@@ -1,0 +1,5 @@
+Given the following user discussions, extract:
+- Common complaints
+- Suggested counters
+- Overall sentiment
+Use bullet points. Be specific.
